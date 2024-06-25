@@ -3,9 +3,7 @@
 This project was developed as part of the Image Analysis and Computer Vision course at Politecnico di Milano. The goal is to analyze and reconstruct the road profile using a single calibrated static camera to identify and track moving vehicles, specifically focusing on the visible wheels.
 
 ## Team Members
-- Niccolò Balestrieri
-- Andrea Bertogalli
-- Nicolò Tombini
+🧑‍🤝‍🧑Thanks to [Andrea Bertogalli](https://github.com/andberto) and [Nicolò Tombini](https://github.com/tombinic)
 
 ## Project Overview
 The project involves:
